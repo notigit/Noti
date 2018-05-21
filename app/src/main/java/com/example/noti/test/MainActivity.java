@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         LinearLayout linearLayout = findViewById(R.id.linearLayout);
         linearLayout.setLayoutTransition(new LayoutTransition());
+        //想要去写代码
         btn = findViewById(R.id.btn);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
