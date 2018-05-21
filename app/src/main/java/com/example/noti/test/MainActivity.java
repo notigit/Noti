@@ -32,6 +32,9 @@ import android.widget.LinearLayout;
 
 import com.example.noti.R;
 
+/**
+ * 12323123 1
+ */
 public class MainActivity extends AppCompatActivity {
 
     private static final int REQ_CODE = 111;
